@@ -1,3 +1,3 @@
 
 import os
-print(os.path.isfile('/etc/resolv.conf'))
+print(os.path.isdir('/temp'))
